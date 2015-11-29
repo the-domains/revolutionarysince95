@@ -1,7 +1,7 @@
 name: RevolutionarySince95
 favicon: null
-layout_spectrum: 0.9467055569402874
-typography_spectrum: 0.4424441806040704
+layout_spectrum: 0.23699
+typography_spectrum: 0.68137
 title: A glimpse into the mind of Davis Carbo
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.023665492422878742
+  brandStrength: 0
   lightness: 0.7427389831282198
   saturation: 0.4908512115944177
   rhythmicContrast: 0.9536848601419479
