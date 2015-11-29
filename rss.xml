@@ -2,17 +2,24 @@
     <channel>
         <title><![CDATA[A glimpse into the mind of Davis Carbo]]></title>
         <description><![CDATA[A glimpse into the mind of Davis Carbo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/revolutionarysince95/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 29 Nov 2015 23:08:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 29 Nov 2015 23:28:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/revolutionarysince95/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>I'd like to thank you for coming on to my site. I have been looking for a median to express my thoughts and ideas for a while, and now that I have this site I'll be able to do so. You're welcome to stay, or go; it doesn't necessarily matter. What matters is that you understand that this is only an expression of myself, for me, and that you too should find a means of expression. I will post my thoughts, my philosophies, my lessons, my ups my downs, my stories, my memories, basically anything that comes to mind. Now that I have somewhere to bring my thoughts, I will do so openly. I hope that what I share with you will help you in some way, if it doesn't,  I suggest you find something different that can. You are in control of your life. Enjoy </p></article>]]></description>
+            <link>https://thegrid.ai/revolutionarysince95/welcome/index.html</link>
+            <guid isPermaLink="false">f26fa126-77cd-4bc6-aa97-808c7cc5370a</guid>
+            <pubDate>Sun, 29 Nov 2015 23:28:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Shiloh]]></title>
             <description><![CDATA[<article><h1>Shiloh</h1><p>“Now Shiloh I don’t want you to be
 nervous, but we’re going to do a little experiment; your father told me your favorite
 subject at school is science, and that you’re the best at experiments”, said
 Dr. Sabini as she placed a folded bandana over Shiloh’s eyes. </p></article>]]></description>
-            <link>undefinedshiloh/index.html</link>
+            <link>https://thegrid.ai/revolutionarysince95/shiloh/index.html</link>
             <guid isPermaLink="false">3d0d835e-02a7-465c-8377-9eba3c636869</guid>
             <pubDate>Sun, 29 Nov 2015 23:07:49 GMT</pubDate>
         </item>
