@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A glimpse into the mind of Davis Carbo]]></title>
+        <description><![CDATA[A glimpse into the mind of Davis Carbo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 29 Nov 2015 23:08:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shiloh]]></title>
+            <description><![CDATA[<article><h1>Shiloh</h1><p>“Now Shiloh I don’t want you to be
+nervous, but we’re going to do a little experiment; your father told me your favorite
+subject at school is science, and that you’re the best at experiments”, said
+Dr. Sabini as she placed a folded bandana over Shiloh’s eyes. </p></article>]]></description>
+            <link>undefinedshiloh/index.html</link>
+            <guid isPermaLink="false">3d0d835e-02a7-465c-8377-9eba3c636869</guid>
+            <pubDate>Sun, 29 Nov 2015 23:07:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
